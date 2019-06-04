@@ -6,11 +6,6 @@ Project using JS with React for a UXUI/Front-end job interview.
 Hey there! I'm glad you're here. I hope you like this little front-end project.
 
 
-
-## Installation
-
-
-
 ## Set up your local server
 
 Clone the interview_project repo
@@ -19,3 +14,8 @@ If you're behind a firewall, CONFIGURE THE PROXY
 INSTALLING DEPENDENCIES (from command line): npm i from the corporate-ui folder.
 Start the local setup by running npm start
 Open your browser and go to http://localhost:1300
+
+
+## License
+
+All CSS, HTML and JS code are available to be used. You can find the icons used for free on https://www.flaticon.com
