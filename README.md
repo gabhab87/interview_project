@@ -1,5 +1,5 @@
 # interview_project
-Project using JS with React for a UXUI/Front-end job interview.
+Project using JS with React for a job interview as a UX/UI / Front-end designer.
 
 
 ## Introduction
