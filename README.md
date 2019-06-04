@@ -13,7 +13,7 @@ Download and install node.js: https://nodejs.org/en/
 If you're behind a firewall, CONFIGURE THE PROXY
 INSTALLING DEPENDENCIES (from command line): npm i from the interview-project folder.
 Start the local setup by running npm start
-Open your browser and go to http://localhost:1300
+Open your browser and go to http://localhost:3000
 
 
 ## Requirements
