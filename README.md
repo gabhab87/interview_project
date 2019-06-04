@@ -18,4 +18,6 @@ Open your browser and go to http://localhost:1300
 
 ## License
 
-All CSS, HTML and JS code are available to be used. You can find the icons used for free on https://www.flaticon.com
+Copyright (c) 2019 Gabriel Lopez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files You can find the icons used the app for free at https://www.flaticon.com
