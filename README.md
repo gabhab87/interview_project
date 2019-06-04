@@ -26,7 +26,7 @@ The react-interview-project-app project needs to be a minimum version of listed 
 
 
 Then
-1. git clone https://github.com/gabhab87/interview_project
+1. Git clone https://github.com/gabhab87/interview_project
 2. cd react-interview-project-app
 3. npm install
 4. npm run start
