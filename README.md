@@ -20,19 +20,21 @@ Open your browser and go to http://localhost:1300
 
 The react-interview-project-app project needs to be a minimum version of listed below.
 
-React 16.x
-Node.js 10.x and npm 6.x
+1. React 16.x
+2. Node.js 10.x and npm 6.x
 #React Project setup
 
-git clone https://github.com/gabhab87/interview_project
-cd react-interview-project-app
-npm install
-npm run start
-Open brower http://localhost:3000/
 
-unit tests - Pending- Skip now npm test
+Then
+1. git clone https://github.com/gabhab87/interview_project
+2. cd react-interview-project-app
+3. npm install
+4. npm run start
+5. Open broswer http://localhost:3000/
 
-Build npm build
+6. Unit tests - Pending- Skip now npm test
+
+7. Build npm build
 
 
 
