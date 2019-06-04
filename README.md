@@ -8,24 +8,24 @@ Hey there! I'm glad you're here. I hope you like this little front-end project.
 
 ## Set up your local server
 
-Clone the interview_project repo
+Clone the interview-project repo
 Download and install node.js: https://nodejs.org/en/
 If you're behind a firewall, CONFIGURE THE PROXY
-INSTALLING DEPENDENCIES (from command line): npm i from the interview_project folder.
+INSTALLING DEPENDENCIES (from command line): npm i from the interview-project folder.
 Start the local setup by running npm start
 Open your browser and go to http://localhost:1300
 
 
 ## Requirements
 
-The react-material-ui-application project needs to be a minimum version of listed below.
+The react-interview-project-app project needs to be a minimum version of listed below.
 
 React 16.x
 Node.js 10.x and npm 6.x
 #React Project setup
 
-git clone https://github.com/rajaramtt/react-material-ui-application.git
-cd react-material-ui-application
+git clone https://github.com/gabhab87/interview_project
+cd react-interview-project-app
 npm install
 npm run start
 Open brower http://localhost:3000/
