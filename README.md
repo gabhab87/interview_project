@@ -16,6 +16,26 @@ Start the local setup by running npm start
 Open your browser and go to http://localhost:1300
 
 
+## Requirements
+
+The react-material-ui-application project needs to be a minimum version of listed below.
+
+React 16.x
+Node.js 10.x and npm 6.x
+#React Project setup
+
+git clone https://github.com/rajaramtt/react-material-ui-application.git
+cd react-material-ui-application
+npm install
+npm run start
+Open brower http://localhost:3000/
+
+unit tests - Pending- Skip now npm test
+
+Build npm build
+
+
+
 ## License
 
 Copyright (c) 2019 Gabriel Lopez
